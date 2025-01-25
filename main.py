@@ -1,5 +1,5 @@
 import matplotlib
 
-x = int(input())
-y = int(input())
-print(x+y)
+x = input()
+y = input()
+print(int(x)+int(y))
